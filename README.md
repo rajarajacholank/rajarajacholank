@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajarajacholank
+- 👋 Hi, I’m @raaj
 - 👀 I’m interested in cloud native app, decentralized app, fullstack cloud
 - 🌱 I’m currently learning producment/project management
 - 💞️ I’m looking to collaborate on product/project management
